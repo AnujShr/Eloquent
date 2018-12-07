@@ -1,0 +1,19 @@
+{
+  "name": "Eloquent/php",
+  "description": "Laravel Free eloquent",
+  "keywords": [
+    "eloquent",
+    "awesome"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "illuminate/database": "5.7.5",
+    "symfony/var-dumper": "^4.2"
+  },
+  "autoload": {
+    "classmap": [
+      "models"
+    ]
+  }
+}
